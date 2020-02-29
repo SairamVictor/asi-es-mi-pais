@@ -1,0 +1,248 @@
+html {
+	margin: 0;
+	padding: 0;
+    }
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em; 
+    }
+.contenedor{
+    width: auto;
+    margin: auto;
+}
+.encabezado {
+    background: #0cb9eb;
+    overflow: hidden;
+    box-shadow: 0 0 20px #070707;
+    position: relative;
+    
+}
+.encabezado nav {
+    float: right;
+}
+.encabezado nav ul {
+    margin: 0;
+	padding: 20px;
+	list-style: none;
+}
+.encabezado nav ul li {
+    display: inline-block;
+    margin-right: -4px;
+}
+.encabezado nav ul li a{
+    display: block;
+	color: #fff;
+	padding: 30px;
+	border-left: lpx solid #696969;
+	text-decoration: none;	
+}
+.encabezado nav ul li a:hover{
+    background: #a50cda
+}
+.presentacion img{
+    box-shadow: 0 0 10px #070707;
+}
+.accesorapido h3{
+    color: #040679;font-size: 2.62cm; /*42px*/
+	text-shadow: 1px 1px 0px #090909;
+	text-align: center;
+    margin-top: 0px;
+	margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 0.7cm;
+    padding-top: 50px; 
+}
+.accesorapido{
+    display: block;
+    background-color:#0cb9eb;
+    margin-top: 0px;
+    position: relative;
+
+}
+.contenedor{
+    width: 1000px;
+    height: 850px;
+}
+#planea{
+    float: left;
+}
+#planea h4{
+    color: #fff; font-size: 1cm; /*18px*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.5cm;
+    text-align: center;
+    margin-left: 5px;
+    position: relative;
+}
+#planea p{
+    text-align: center;
+    margin-left: 5px;
+    position: relative;
+}
+#planea figure{
+    text-align: center;
+}
+#realiza{
+    float: right;
+}
+#realiza h4{
+    color: #fff; font-size: 1cm; /*18px*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.5cm;
+    text-align: center;
+    margin-left: 10px
+}
+#realiza p{
+    font-size: 0.5cm;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+#realiza figure{
+    text-align: center;
+}
+#disfruta{
+    float: left;
+}
+#disfruta h4{
+    color: #fff; font-size: 1cm; /*18px*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.5cm;
+    text-align: center;
+    margin-left: 10px
+}
+#disfruta p{
+    font-size: 0.5cm;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+#disfruta figure{
+    text-align: center;
+}
+#siguiente{
+    float: right;
+}
+#siguiente h4{
+    color: #fff; font-size: 1cm; /*18px*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.5cm;
+    text-align: center;
+    margin-right: 10px;
+}
+#siguiente p{
+    font-size: 0.5cm;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+#siguiente figure{
+    text-align: center;
+}
+.departamentomanagua{
+    display: block;
+    background-color:#bd0cda;
+    margin-top: -100px;  
+}
+#managua h3{
+    color: #fff;font-size: 2.62cm; /*42px*/
+	text-shadow: 1px 1px 1px #090909;
+	text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 0.7cm;
+    padding-top: 50px; 
+}
+#managua p{
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+#managua h5{
+    color: #fff;
+    margin-top: 2px;
+}
+#rivas{
+    display: block;
+    background-color:#29c03a;
+    margin-top: -100px; 
+}
+#rivas h3{
+    color: #fff;font-size: 2.62cm; /*42px*/
+	text-shadow: 1px 1px 1px #090909;
+	text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 0.7cm;
+    padding-top: 50px;
+}
+#rivas p{
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+#rivas h5{
+    color: #fff;
+    margin-top: 2px;
+}
+#esteli{
+    display: block;
+    background-color:#d52713;
+    margin-top: -100px; 
+}
+#esteli h3{
+    color: #fff;font-size: 2.62cm; /*42px*/
+	text-shadow: 1px 1px 1px #090909;
+	text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 0.7cm;
+    padding-top: 50px;
+}
+#esteli p{
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+#esteli h5{
+    color: #fff;
+    margin-top: 2px;
+}
+#rio-sanjuan{
+    display: block;
+    background-color:#087dee;
+    margin-top: -100px; 
+}
+#rio-sanjuan h3{
+    color: #fff;font-size: 2.62cm; /*42px*/
+	text-shadow: 1px 1px 1px #090909;
+	text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 0.7cm;
+    padding-top: 50px;
+}
+#rio-sanjuan p{
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+#rio-sanjuan h5{
+    color: #fff;
+    margin-top: 2px;
+}
+#footer h4{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1cm;
+    text-align: center;
+}
+#footer h5{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2px;
+}
